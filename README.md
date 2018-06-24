@@ -4,7 +4,7 @@ This is the program code for the Bachelor's thesis "A Statistical Variant of the
 
 It is designed as a plugin for the ProM-Framework (see http://www.promtools.org/doku.php?id=start).
 
-##Installation##
+## Installation
 
 In order to use the plugin you need eclipse (see https://eclipse.org/) 
 
@@ -15,7 +15,7 @@ and the Ivy-plugin for eclipse (see https://ant.apache.org/ivy/ivyde/).
 
 You then resolve all dependencies using the ivy.xml-file in in the projects main directory inside of eclipse. It will prompt for a login, in which case you just proceed.
 
-##Using the plugins##
+## Using the plugins
 
 You can start ProM with the plugin using the appropriate launch-file in eclipse.
 
